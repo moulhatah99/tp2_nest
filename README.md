@@ -7,7 +7,7 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
+# with docker
 $ docker-compose up -d
 
 # without docker
